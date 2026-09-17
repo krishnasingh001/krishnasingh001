@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200">
+  <defs>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="200" rx="16" fill="url(#card)" stroke="#1F2937" stroke-width="2"/>
+  <text x="28" y="42" fill="#BE123C" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">GitHub snapshot</text>
+  <text x="28" y="88" fill="#F8FAFC" font-family="Georgia, Times, serif" font-size="36" font-weight="700">20</text>
+  <text x="28" y="112" fill="#94A3B8" font-family="Helvetica, Arial, sans-serif" font-size="13">Public repositories</text>
+  <text x="200" y="88" fill="#F8FAFC" font-family="Georgia, Times, serif" font-size="36" font-weight="700">13</text>
+  <text x="200" y="112" fill="#94A3B8" font-family="Helvetica, Arial, sans-serif" font-size="13">Followers</text>
+  <text x="360" y="88" fill="#F8FAFC" font-family="Georgia, Times, serif" font-size="36" font-weight="700">6+</text>
+  <text x="360" y="112" fill="#94A3B8" font-family="Helvetica, Arial, sans-serif" font-size="13">Years experience</text>
+  <text x="28" y="162" fill="#64748B" font-family="Helvetica, Arial, sans-serif" font-size="13">Rails SSE  |  OSS contributor  |  Ruby Weekly feature</text>
+</svg>

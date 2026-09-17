@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200">
+  <defs>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="200" rx="16" fill="url(#card)" stroke="#1F2937" stroke-width="2"/>
+  <text x="28" y="42" fill="#BE123C" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Core stack</text>
+
+  <rect x="28" y="68" width="150" height="14" rx="7" fill="#CC342D"/>
+  <text x="190" y="80" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="14">Ruby / Rails</text>
+
+  <rect x="28" y="98" width="120" height="14" rx="7" fill="#4169E1"/>
+  <text x="190" y="110" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="14">PostgreSQL / MySQL</text>
+
+  <rect x="28" y="128" width="95" height="14" rx="7" fill="#F7DF1E"/>
+  <text x="190" y="140" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="14">JavaScript</text>
+
+  <rect x="28" y="158" width="70" height="14" rx="7" fill="#BE123C"/>
+  <text x="190" y="170" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="14">RSpec / Git / Cloud</text>
+</svg>

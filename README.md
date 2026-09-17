@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Krishna Singh — Senior Software Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/banner.png" alt="Krishna Singh - Senior Software Engineer" width="100%" />
 </div>
 
 <br/>
@@ -13,17 +13,21 @@
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/divider.png" alt="" width="100%" />
+</p>
 
 ### About me
 
 I build and scale **Ruby on Rails** products with a bias for clarity, speed, and ownership.
 
-Over **6+ years**, I’ve shipped features end-to-end, tuned slow queries under load, debugged production incidents, and partnered across product, design, and support. Currently a **Senior Software Engineer at Procore**, working on BIM collaboration workflows.
+Over **6+ years**, I've shipped features end-to-end, tuned slow queries under load, debugged production incidents, and partnered across product, design, and support. Currently a **Senior Software Engineer at Procore**, working on BIM collaboration workflows.
 
 Previously helped scale **Lawlytics to 100,000+ daily visits**, led a team of 5 at TagNTrack, and contributed upstream to the Rails ecosystem. Writing featured in **Ruby Weekly**.
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/divider.png" alt="" width="100%" />
+</p>
 
 ### What I bring
 
@@ -39,12 +43,14 @@ Previously helped scale **Lawlytics to 100,000+ daily visits**, led a team of 5 
     </td>
     <td width="33%" valign="top">
       <h3>Keep prod calm</h3>
-      <p>Customer issues, production debug, and durable fixes—then harden the path so it doesn’t return.</p>
+      <p>Customer issues, production debug, and durable fixes—then harden the path so it doesn't return.</p>
     </td>
   </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/divider.png" alt="" width="100%" />
+</p>
 
 ### Tech I work with
 
@@ -60,16 +66,21 @@ Previously helped scale **Lawlytics to 100,000+ daily visits**, led a team of 5 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/divider.png" alt="" width="100%" />
+</p>
 
 ### Snapshot
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnasingh001&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=be123c&icon_color=be123c&text_color=64748b&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasingh001&layout=compact&theme=transparent&hide_border=true&title_color=be123c&text_color=64748b&bg_color=00000000" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/snapshot.png" alt="GitHub snapshot" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/stack.png" alt="Core stack" height="170" />
+</p>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/divider.png" alt="" width="100%" />
+</p>
 
 ### Selected work
 
@@ -80,7 +91,9 @@ Previously helped scale **Lawlytics to 100,000+ daily visits**, led a team of 5 
 | **Lawlytics** · SSE | Scaled to **100k+ daily visits** · DNS automation (~10 hrs/client) · production firefighting |
 | **[Resume repo](https://github.com/krishnasingh001/krishna-singh-resume)** | Full career write-up and highlights |
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/divider.png" alt="" width="100%" />
+</p>
 
 ### Open source & writing
 
@@ -88,18 +101,16 @@ Previously helped scale **Lawlytics to 100,000+ daily visits**, led a team of 5 
 - Deep-dives on 2FA, race conditions, `#load_async`, Turbo/Hotwire, and Rails 7 ActiveRecord  
 - Featured in **[Ruby Weekly](https://rubyweekly.com)** for Rails 7 controller performance with `#load_async`
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnasingh001/krishnasingh001/main/assets/divider.png" alt="" width="100%" />
+</p>
 
 <div align="center">
 
-### Let’s connect
+### Let's connect
 
-I’m open to conversations about Rails architecture, performance, and product engineering leadership.
+I'm open to conversations about Rails architecture, performance, and product engineering leadership.
 
 [krishnasingh.me](https://krishnasingh.me) · [Resume](https://github.com/krishnasingh001/krishna-singh-resume) · [LinkedIn](https://www.linkedin.com/in/krishnasingh) · [krishnasinghcs@gmail.com](mailto:krishnasinghcs@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=krishnasingh001&label=Profile%20views&color=be123c&style=flat-square" alt="Profile views" />
 
 </div>
